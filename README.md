@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Python
+## Popular sites to Learn Python Programming
+* [educba](https://www.educba.com/software-development/software-development-tutorials/python-tutorial/)
+* [geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
+* [realpython](https://realpython.com/)
+* [tutorialspoint](https://www.tutorialspoint.com/python3/index.htm)
+* [programiz](https://www.programiz.com/python-programming)
+* [pythonprogramming](https://pythonprogramming.net/)
+* [w3schools](https://www.w3schools.in/python-tutorial/)
+* [python.org documentation](https://www.python.org/doc/)
 
-You can use the [editor on GitHub](https://github.com/chaitanya-ycr/python-cheatsheet/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## collected cheatsheets from below sites
+* [DataCamp](https://www.datacamp.com/)
+* [realpython](https://realpython.com/)
+* [prettyprinted](http://prettyprinted.com)
+* [packetlife](https://packetlife.net/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chaitanya-ycr/python-cheatsheet/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## popular python github links
+* [Awesome Python](https://github.com/PySimpleGUI/awesome-python) --> A curated list of awesome Python frameworks, libraries, software and resources.
+* [awesome-python-bytes](https://github.com/PySimpleGUI/awesome-python-bytes) --> Awesome lists about Python Bytes https://pythonbytes.fm/
+* [Free Python Books](https://github.com/PySimpleGUI/free-python-books) --> A list of Python books in English that are free to read online or download.
+* [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) --> Transforms the tkinter, Qt, WxPython, and Remi (browser-based) GUI frameworks into a simpler interface.
+* [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet) --> Comprehensive Python Cheatsheet.
+* [YTDownloader](https://github.com/PySimpleGUI/YTDownloader) --> This is a fork of a YouTube downloader that was pretty simple.
